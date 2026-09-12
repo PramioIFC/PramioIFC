@@ -45,7 +45,6 @@ Sou estudante de **Informática para Internet no Instituto Federal Catarinense �
 ### Produtividade
 
 - **Google Workspace:** Docs, Planilhas e Apresentações
-- **LibreOffice:** Writer, Calc e Impress
 - **Microsoft Office:** Word, Excel e PowerPoint
 
 ## Projetos em destaque

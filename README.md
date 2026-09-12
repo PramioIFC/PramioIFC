@@ -51,7 +51,7 @@ Sou estudante de **Informática para Internet no Instituto Federal Catarinense �
 ## Projetos em destaque
 
 - [Flux](https://github.com/PramioIFC/Flux) — aplicativo musical multiplataforma desenvolvido com Flutter.
-- [SMAAR](https://github.com/PramioIFC/SMAAR) — aplicativo, API e IoT para controle de porteiras rurais.
+- [SMAAR](https://github.com/PramioIFC/SMAAR) — aplicativo integrado a uma API e hardware para controle de porteiras rurais.
 - [ResolveTech](https://github.com/PramioIFC/ResolveTech) — plataforma de suporte com IA, chat e chamadas.
 - [Portfólio](https://portifolio-dxw.pages.dev) — conheça meus projetos e minha trajetória.
 
